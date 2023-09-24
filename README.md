@@ -35,7 +35,4 @@ To run the Number Guessing Game, follow these steps:
 
 4. Navigate to the directory where the game script is located.
 
-5. Run the script using Python:
-
-   ```bash
-   python number_guessing_game.py
+5. Run the script using Python
